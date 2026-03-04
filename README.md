@@ -23,27 +23,12 @@
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rin259&show_icons=true&theme=catppuccin_mocha&icon_color=FF69B4&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin259&layout=compact&theme=catppuccin_mocha&icon_color=FF69B4&hide_border=true" height="150" alt="languages" />
-</p>
-
----
-
 ### 📫 Connect
 
 <p align="left">
   <a href="https://github.com/rin259">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rin259&style=flat-square&color=FF69B4" alt="profile views" />
 </p>
 
 ---
